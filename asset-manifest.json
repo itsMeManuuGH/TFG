@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TFG/static/css/main.e70f2d36.css",
+    "main.css": "/TFG/static/css/main.af9ab568.css",
     "main.js": "/TFG/static/js/main.6fd8e886.js",
     "static/js/453.bb704c1d.chunk.js": "/TFG/static/js/453.bb704c1d.chunk.js",
     "static/media/Cerebro sin fondo MyFocus.png": "/TFG/static/media/Cerebro sin fondo MyFocus.7041098799c82ff6582f.png",
     "index.html": "/TFG/index.html",
-    "main.e70f2d36.css.map": "/TFG/static/css/main.e70f2d36.css.map",
+    "main.af9ab568.css.map": "/TFG/static/css/main.af9ab568.css.map",
     "main.6fd8e886.js.map": "/TFG/static/js/main.6fd8e886.js.map",
     "453.bb704c1d.chunk.js.map": "/TFG/static/js/453.bb704c1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e70f2d36.css",
+    "static/css/main.af9ab568.css",
     "static/js/main.6fd8e886.js"
   ]
 }
