@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './Cerebro sin fondo MyFocus.png';
 import './App.css';
 import MiComponente from './Componente';
 
@@ -7,18 +7,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+
+        <h1 className='miLogo' >MyFocus</h1>
+       <a className='miTexto'>
+          Focus on Achievement
           
-          Este es el TFG de Manuel Martinez
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
         </a>
+        
+
+        <p> </p>
+
         <MiComponente/>
       </header>
     </div>

@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #071a41;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,11 +28,24 @@
   color: #61dafb;
 }
 
+.miTexto {
+  font-size: 24px;
+  font-family: 'Georgia', serif;
+}
+
+.miLogo{
+
+  font-size: 70px;
+  font-family: 'Georgia', serif;
+
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(0deg);
   }
+  
 }
