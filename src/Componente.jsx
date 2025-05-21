@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import './App.css';
 
 export default function MiComponente() {
 
@@ -19,35 +20,35 @@ export default function MiComponente() {
     }
 
   return (
-    <div>
+    <div style= {{display: "flex", gap: "20px"}}>
 
         <input 
         type="Correo electrónico" 
         placeholder={"Correo electrónico"}
         value={correoElectronico} 
         onChange={textOnChange} 
-        style={{ width: '300px', height: '40px', fontSize: '20px' }}/> 
+        style={{ width: '300px', height: '35px', fontSize: '18px', borderWidth: "3px", borderStyle: "solid", borderColor: "purple" }}/> 
 
-        <a>                         </a>
-
-        
+       <p> </p>
 
         <input 
         type="Contraseña" 
         placeholder={"Contraseña"}
         value={contraseña} 
         onChange={textOnChangeContraseña} 
-        style={{ width: '200px', height: '40px', fontSize: '20px' }}/>
+        style={{ width: '180px', height: '35px', fontSize: '18px', borderWidth: "3px",borderStyle: "solid",borderColor: "purple" }}/>
 
         <a>      </a>
 
 
-        <button style={{ width: '200px', height: '40px', fontSize: '20px' }} onClick={buttonOnClick}> Iniciar Sesión </button>
+        <button style={{  width: '150px', height: '40px', fontSize: '18px',  borderWidth: "3px", borderStyle: "solid", borderColor: "purple" }} 
+        onClick={buttonOnClick}> 
+             
+            Iniciar Sesión 
+             
+        </button>
 
-
-        <p> Texto Correo: {correoElectronico} </p>
-        <p> Texto Contraseña: {contraseña} </p>
-        <p> Texto Actualizado: {updated} </p>
+      
 
     </div>
   )
