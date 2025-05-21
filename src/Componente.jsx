@@ -20,7 +20,7 @@ export default function MiComponente() {
     }
 
   return (
-    <div>
+    <div >
 
         <input 
         type="Correo electrónico" 
@@ -29,7 +29,7 @@ export default function MiComponente() {
         onChange={textOnChange} 
         style={{ width: '300px', height: '35px', fontSize: '18px', borderWidth: "3px", borderStyle: "solid", borderColor: "purple" }}/> 
 
-     <a>           </a>
+      <a>                                                                                                                 </a>
 
         <input 
         type="Contraseña" 
@@ -38,7 +38,7 @@ export default function MiComponente() {
         onChange={textOnChangeContraseña} 
         style={{ width: '180px', height: '35px', fontSize: '18px', borderWidth: "3px",borderStyle: "solid",borderColor: "purple" }}/>
 
-        <a>      </a>
+        <p> </p>
 
 
         <button style={{  width: '150px', height: '40px', fontSize: '18px',  borderWidth: "3px", borderStyle: "solid", borderColor: "purple" }} 
