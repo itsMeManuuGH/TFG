@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TFG/static/css/main.c385314f.css",
-    "main.js": "/TFG/static/js/main.389b3a8b.js",
+    "main.css": "/TFG/static/css/main.cdd52261.css",
+    "main.js": "/TFG/static/js/main.0bdd9fe4.js",
     "static/js/453.bb704c1d.chunk.js": "/TFG/static/js/453.bb704c1d.chunk.js",
     "static/media/Cerebro sin fondo MyFocus.png": "/TFG/static/media/Cerebro sin fondo MyFocus.7041098799c82ff6582f.png",
     "static/media/MyFocus Desenfocado.jpg": "/TFG/static/media/MyFocus Desenfocado.68463cbff50105f6c574.jpg",
     "index.html": "/TFG/index.html",
-    "main.c385314f.css.map": "/TFG/static/css/main.c385314f.css.map",
-    "main.389b3a8b.js.map": "/TFG/static/js/main.389b3a8b.js.map",
+    "main.cdd52261.css.map": "/TFG/static/css/main.cdd52261.css.map",
+    "main.0bdd9fe4.js.map": "/TFG/static/js/main.0bdd9fe4.js.map",
     "453.bb704c1d.chunk.js.map": "/TFG/static/js/453.bb704c1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c385314f.css",
-    "static/js/main.389b3a8b.js"
+    "static/css/main.cdd52261.css",
+    "static/js/main.0bdd9fe4.js"
   ]
 }
