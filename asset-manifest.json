@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/TFG/static/css/main.cdd52261.css",
-    "main.js": "/TFG/static/js/main.0bdd9fe4.js",
+    "main.js": "/TFG/static/js/main.38f096ca.js",
     "static/js/453.bb704c1d.chunk.js": "/TFG/static/js/453.bb704c1d.chunk.js",
     "static/media/Cerebro sin fondo MyFocus.png": "/TFG/static/media/Cerebro sin fondo MyFocus.7041098799c82ff6582f.png",
     "static/media/MyFocus Desenfocado.jpg": "/TFG/static/media/MyFocus Desenfocado.68463cbff50105f6c574.jpg",
     "index.html": "/TFG/index.html",
     "main.cdd52261.css.map": "/TFG/static/css/main.cdd52261.css.map",
-    "main.0bdd9fe4.js.map": "/TFG/static/js/main.0bdd9fe4.js.map",
+    "main.38f096ca.js.map": "/TFG/static/js/main.38f096ca.js.map",
     "453.bb704c1d.chunk.js.map": "/TFG/static/js/453.bb704c1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdd52261.css",
-    "static/js/main.0bdd9fe4.js"
+    "static/js/main.38f096ca.js"
   ]
 }
