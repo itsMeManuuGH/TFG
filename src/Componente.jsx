@@ -20,7 +20,7 @@ export default function MiComponente() {
     }
 
   return (
-    <div style= {{display: "flex", gap: "20px"}}>
+    <div>
 
         <input 
         type="Correo electrónico" 
@@ -29,7 +29,7 @@ export default function MiComponente() {
         onChange={textOnChange} 
         style={{ width: '300px', height: '35px', fontSize: '18px', borderWidth: "3px", borderStyle: "solid", borderColor: "purple" }}/> 
 
-       <p> </p>
+     <a>           </a>
 
         <input 
         type="Contraseña" 
